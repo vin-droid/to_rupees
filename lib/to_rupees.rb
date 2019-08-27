@@ -1,4 +1,3 @@
-require "./to_rupees/version.rb"
 require "active_support/inflector"
 
 module ToRupees
