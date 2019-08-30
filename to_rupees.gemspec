@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vineet.12cs069@abes.ac.in"]
 
   spec.summary       = %q{Spell out numbers in indian currency.}
-  spec.description   = %q{Spell out numbers in indian currency.}
+  spec.description   = %q{Spell out numbers in indian currency. It converts numbers in words(rupees)}
   spec.homepage      = "https://github.com/vin-droid/to_rupees"
   spec.license       = "MIT"
 

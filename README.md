@@ -1,5 +1,5 @@
 # ToRupees
-Spell out numbers in indian currency.
+Spell out numbers in indian currency. It converts numbers in words(ruppes).
 
 
 ## Installation
@@ -43,7 +43,7 @@ Or install it yourself as:
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[vin-droid]/to_rupees.
-1. Fork it ( https://github.com/[vin-droid]/to_rupees/fork )
+1. Fork it ( https://github.com/vin-droid/to_rupees/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
