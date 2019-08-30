@@ -1,5 +1,5 @@
 # ToRupees
-Spell out numbers in indian currency. It converts numbers in words(ruppes).
+Spell out numbers in indian currency. It converts numbers in words(rupees).
 
 
 ## Installation
